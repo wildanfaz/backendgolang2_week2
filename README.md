@@ -1,7 +1,7 @@
 
-# Backend Golang 2 Week 1
+# Backend Golang 2 Week 2
 
-My first task with JavaScript
+JavaScript week 2
 
 
 ## Clone
