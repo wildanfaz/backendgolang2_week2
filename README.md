@@ -1,4 +1,3 @@
-
 # Backend Golang 2 Week 2
 
 JavaScript week 2
